@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nehal7472
 - 👀 I’m interested in Web Deign and Development
-- 🌱 I’m currently learning UI-UX
+- 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (email me- 007cryptic@gmail.com)
 
