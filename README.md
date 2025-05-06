@@ -3,8 +3,8 @@ Hi! I'm Ahsanul Haque Nehal, a passionate MERN Stack Developer with a love for b
 
 📫 How to Reach Me
 Email: 007cryptic@gmail.com
-LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/ahsanul-haque-nehal-a94664219/)
-Portfolio:[ yourportfolio.com](https://xenodochial-swirles-89753f.netlify.app/)
+LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/ahsanul-haque-nehal/)
+Portfolio:[ yourportfolio.com](https://personal-portfolio-nehal-ah.vercel.app/)
 GitHub: github.com/nehal7472
 Mobile: +8801633247472
 
