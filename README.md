@@ -1,6 +1,6 @@
-# 👨‍💻 MERN Stack Developer | Ahsanul Haque Nehal  
+# 👨‍💻 MERN & Next.js Developer | Ahsanul Haque Nehal  
 
-Hi! I'm **Ahsanul Haque Nehal**, a passionate **MERN Stack Developer** with a love for building web applications that solve real-world problems. I specialize in creating **full-stack applications** using **MongoDB, Express.js, React, and Node.js**.  
+Hi! I'm **Ahsanul Haque Nehal**, a passionate **MERN & Next.js Developer** with a love for building web applications that solve real-world problems. I specialize in creating **full-stack applications** using **MongoDB, Express.js, React, Node.js, and Next.js**.  
 
 ---
 
@@ -17,14 +17,24 @@ Hi! I'm **Ahsanul Haque Nehal**, a passionate **MERN Stack Developer** with a lo
 
 ### Frontend  
 - ⚛️ **React.js** – Reusable components & dynamic UIs  
-- 🎨 **HTML5 / CSS3** – Semantic markup, Flexbox, Grid  
+- ▲ **Next.js** – SSR, SSG, API routes, app router  
+- 🎨 **shadcn/ui** – Modern UI components with Tailwind CSS  
 - 💨 **Tailwind CSS / Bootstrap** – Utility-first responsive design  
-- 🟨 **JavaScript (ES6+)** – Async/await, Promises, modern syntax  
+- 🟨 **JavaScript (ES6+)** – Modern syntax, async/await, Promises  
+
+### State Management & Data Fetching  
+- 🛠️ **Redux Toolkit** – Scalable state management  
+- 🔄 **TanStack Query (React Query)** – Efficient server-state management & caching  
 
 ### Backend  
 - 🟢 **Node.js** – Backend logic & APIs  
 - 🚏 **Express.js** – RESTful APIs, middleware integration  
 - 🍃 **MongoDB / Mongoose** – Efficient NoSQL database operations  
+- 🔷 **Prisma ORM** – Type-safe database queries  
+- 🟦 **NeonDB** – Serverless PostgreSQL database  
+
+### Authentication & Authorization  
+- 🔐 **Clerk** – Authentication, user management, RBAC  
 
 ### Tools & Platforms  
 - 🔧 **Git & GitHub** – Version control, branching, pull requests  
@@ -45,7 +55,7 @@ Hi! I'm **Ahsanul Haque Nehal**, a passionate **MERN Stack Developer** with a lo
 ## 🏆 Projects  
 
 ### 1. E-commerce Website 🛒  
-**Tech Stack:** React, Node.js, Express, MongoDB  
+**Tech Stack:** React, Redux Toolkit, Node.js, Express, MongoDB  
 - Full-featured platform with product listings, cart, and **Stripe payment integration**  
 - User authentication & role-based access  
 - Admin panel for managing products, users, and orders  
@@ -56,14 +66,13 @@ Hi! I'm **Ahsanul Haque Nehal**, a passionate **MERN Stack Developer** with a lo
 - **JWT-based security** for user sessions  
 
 ### 3. Personal Portfolio 🌐  
-**Tech Stack:** React, Tailwind CSS  
+**Tech Stack:** Next.js, Tailwind CSS, shadcn/ui  
 - Fully responsive portfolio showcasing projects & skills  
-- Smooth scrolling & modular components  
+- Smooth scrolling, dark/light mode, modular components  
 
 ---
 
 ## 📚 Currently Exploring  
-- 🔹 **Next.js** – SSR & SSG for React  
 - 🔹 **TypeScript** – Type safety for scalable apps  
 - 🔹 **GraphQL** – Flexible query language for APIs  
 - 🔹 **CI/CD Pipelines** – Automating deployments  
